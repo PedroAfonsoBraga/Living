@@ -1,10 +1,14 @@
-import HomePage from "./pages/home";
+import RoutesMain from "./routes";
+import React from 'react'
+import { GlobalStyle } from "./styles/GlobalStyle.js";
 
 function App() {
   return (
-    <div className="App">
-     <HomePage/>
-    </div>
+    <>
+     <RoutesMain/>
+     <GlobalStyle/>
+    </>
+    
   );
 }
 
