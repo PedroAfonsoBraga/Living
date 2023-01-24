@@ -17,6 +17,7 @@ const HomePage = () => {
           <img src={destaque} alt="fotoDestaque" />
         </div>
       </div>
+      
     </StyledContainer>
   )
 }

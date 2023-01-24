@@ -78,10 +78,10 @@ table {
     --information: #155BCB;
 
     /* Font-size */
-    --font-size-1: 2.5rem;
-    --font-size-2: 1.75rem;
-    --font-size-3: 1.25rem;
-    --font-size-4: 1rem;
+    --font-size-1: 2.5rem; //40px
+    --font-size-2: 1.75rem; //28px
+    --font-size-3: 1.25rem; //20px
+    --font-size-4: 1rem; //16px
 
     /* Font-weight */
     --font-weight-1: 700;
